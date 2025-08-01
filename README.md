@@ -37,6 +37,3 @@ A fully functional MERN stack e-commerce platform built with React, Redux, Node.
 -  **Role-Based Access Control**
 
 ---
-
-##  Folder Structure
-
